@@ -10,7 +10,7 @@
         "\\.html?$"            : "html",
         ".*"                   : "text"        
     },
-    "title"  : "Akira's Blog",
+    "title"  : "rirber's Blog",
     "description" : "My Blog Description...",
     "comment"  : {"type":"disqus", "short_name":"gitpress"},
     "friends"  : [
